@@ -97,3 +97,10 @@ VITE_API_BASE_URL=http://localhost:5000/api
 
 ### View User
 ![View User](./screenshots/viewuser.png)
+
+### After a user gets deleted
+![View User](./screenshots/afterdeletionuser.png)
+
+### Asking the admin to recheck while deleting
+![View User](./screenshots/whiledeleting.png)
+

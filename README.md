@@ -82,3 +82,18 @@ VITE_API_BASE_URL=http://localhost:5000/api
 - Detail page
 
 ---
+
+
+## Screenshots
+
+### Create User
+![Create User](./screenshots/createuser.png)
+
+### Edit User
+![Edit User](./screenshots/edituser.png)
+
+### Update User
+![Update User](./screenshots/updateuser.png)
+
+### View User
+![View User](./screenshots/viewuser.png)

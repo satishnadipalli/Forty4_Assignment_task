@@ -104,3 +104,14 @@ VITE_API_BASE_URL=http://localhost:5000/api
 ### Asking the admin to recheck while deleting
 ![View User](./screenshots/whiledeleting.png)
 
+### Resposive screens
+![View User](./screenshots/responsive-dashboard.png)
+
+![View User](./screenshots/responsive-edituser.png)
+
+![View User](./screenshots/responsive-userinfo.png)
+
+
+
+
+
